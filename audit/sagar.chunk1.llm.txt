@@ -1,0 +1,1 @@
+{"Name of Candidate":"","Birth Date":"","Marital Status":"","Permanent Address":"","Contact Number":"","Email ID":"","Education":"","Total Years of Experience":"","Experience Details":"","Current Monthly Salary":"","District":"","Gender":"","Present Address":"","PAN Card":"","Aadhar Card":"","State":"","Preferred Job Location":""}
