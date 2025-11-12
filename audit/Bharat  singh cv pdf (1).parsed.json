@@ -1,0 +1,41 @@
+{
+  "result": {
+    "Name of Candidate": "",
+    "Birth Date": "21/06/2006",
+    "Marital Status": "",
+    "Permanent Address": "; VPO-MAHESHO KI DHANI TEH.-POKARAN ,JAISALMER RAJASTHAN 345023 DECLARATION- I do hereby declare that the above ginve statements are true and true and correct to the best of my knowledge. DATE- PLACE- ( BHARAT SINGH )",
+    "Contact Number": "+919636084189",
+    "Email ID": "bharatsabhati52@gmail.com",
+    "Education": "",
+    "Total Years of Experience": "",
+    "Experience Details": "",
+    "Current Monthly Salary": ",",
+    "District": "",
+    "Gender": "Male",
+    "Present Address": "",
+    "PAN Card": "",
+    "Aadhar Card": "",
+    "State": "",
+    "Preferred Job Location": ""
+  },
+  "extraction_method": {
+    "Name of Candidate": "",
+    "Birth Date": "regex",
+    "Marital Status": "",
+    "Permanent Address": "regex",
+    "Contact Number": "regex",
+    "Email ID": "regex",
+    "Education": "",
+    "Total Years of Experience": "",
+    "Experience Details": "",
+    "Current Monthly Salary": "regex",
+    "District": "",
+    "Gender": "regex",
+    "Present Address": "",
+    "PAN Card": "",
+    "Aadhar Card": "",
+    "State": "",
+    "Preferred Job Location": ""
+  },
+  "source_method": "selectable"
+}

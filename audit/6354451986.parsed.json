@@ -1,0 +1,41 @@
+{
+  "result": {
+    "Name of Candidate": "",
+    "Birth Date": "",
+    "Marital Status": "",
+    "Permanent Address": "",
+    "Contact Number": "+916354451986",
+    "Email ID": "sharmaravii1234@gmail.com",
+    "Education": "",
+    "Total Years of Experience": "1",
+    "Experience Details": "",
+    "Current Monthly Salary": ",",
+    "District": "",
+    "Gender": "Male",
+    "Present Address": "",
+    "PAN Card": "",
+    "Aadhar Card": "",
+    "State": "",
+    "Preferred Job Location": ""
+  },
+  "extraction_method": {
+    "Name of Candidate": "",
+    "Birth Date": "",
+    "Marital Status": "",
+    "Permanent Address": "",
+    "Contact Number": "regex",
+    "Email ID": "regex",
+    "Education": "",
+    "Total Years of Experience": "regex",
+    "Experience Details": "",
+    "Current Monthly Salary": "regex",
+    "District": "",
+    "Gender": "regex",
+    "Present Address": "",
+    "PAN Card": "",
+    "Aadhar Card": "",
+    "State": "",
+    "Preferred Job Location": ""
+  },
+  "source_method": "selectable"
+}
