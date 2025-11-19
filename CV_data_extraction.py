@@ -24,7 +24,7 @@ load_dotenv()
 # Constants
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-MODEL_NAME = "openai/gpt-oss-20b:free"
+MODEL_NAME = "google/gemma-3-27b-it:free"
 
 # Tesseract configuration (if needed)
 os.environ["TESSDATA_PREFIX"] = "/usr/share/tessdata/"
